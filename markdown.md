@@ -28,7 +28,7 @@ To switch to a specific branch
 To fetch and merge changes from the remote repository
 
 > git remote add <RemoteName> <GITHUBREMOTELINK>
- To Add a new remote github repo in your local gihub
+ To Add a new remote github repo in your local
 
 > git push <RemoteName> <BranchName>
 To push local changes to the remote repository
